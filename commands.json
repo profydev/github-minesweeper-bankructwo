@@ -22,6 +22,7 @@
     "clear F5",
     "flag F6",
     "flag F7",
-    "flag F8"
+    "flag F8",
+    "clear F4"
   ]
 }
